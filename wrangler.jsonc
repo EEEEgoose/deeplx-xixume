@@ -9,14 +9,14 @@
   "compatibility_date": "2026-02-24",
   "kv_namespaces": [
     {
-      "binding": "dplx_cache_kv",
+      "binding": "CACHE_KV",
       "id": "3c7bede1d30946bbac4f56724ad8c88b",
-      "preview_id": "e9e499fe006e4879a0668e792fe2dd15"
+      "preview_id": "e9ee99fe006e4879a0668e792fe2dd15"
     },
     {
-      "binding": "dplx_rate_limit_kv",
+      "binding": "RATE_LIMIT_KV",
       "id": "5903f5397a0748e6a044cd5e0fd8db66",
-      "preview_id": "bbed039364e5488e8ed58701c3ee5da5"
+      "preview_id": "bbee039364e5488e8ed58701c3ee5da5"
     }
   ],
   "main": "src/index.ts",
