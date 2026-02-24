@@ -16,7 +16,7 @@
     {
       "binding": "RATE_LIMIT_KV",
       "id": "5903f5397a0748e6a044cd5e0fd8db66",
-      "preview_id": "bbee039364e5488e8ed58701c3ee5da5"
+      "preview_id": "bbee039364e5488e8ed58701c3ee5da3"
     }
   ],
   "main": "src/index.ts",
